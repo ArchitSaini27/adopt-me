@@ -1,2 +1,3 @@
 # adopt-me
-Pet adoption website
+## Pet adoption website
+Uses *React!*
